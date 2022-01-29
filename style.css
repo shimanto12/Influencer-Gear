@@ -19,9 +19,9 @@ background-color:  #aaaaaa32;
  .camera-details{
     width: 50%;
 } 
-.camera-image{
+/* .camera-image{
     width: 50%;
-}
+} */
 .button ,a{
     text-decoration: none;
     color: white;
@@ -105,7 +105,7 @@ footer{
     width: 100%;
 } 
 .camera-image img{
-    width: 182%;
+    width: 100%;
 }
 .all-products {
     grid-template-columns: repeat(1,1fr);
